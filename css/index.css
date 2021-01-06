@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Work+Sans&display=swap");
+
+body {
+  height: 100vh;
+
+  font-family: "Work Sans", sans-serif;
+
+  background-image: url("../Img/bg\ \(2\).jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  border-radius: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
