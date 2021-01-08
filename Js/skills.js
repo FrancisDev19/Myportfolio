@@ -104,7 +104,7 @@ var bar7 = new ProgressBar.Circle(vue, {
   }
 });
 
-bar5.animate(0.9);  // Number from 0.0 to 1.0
+bar7.animate(0.9);  // Number from 0.0 to 1.0
 
 // cssframework
 var bar6 = new ProgressBar.Circle(cssframework, {
